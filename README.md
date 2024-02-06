@@ -1,3 +1,3 @@
 # Who am I
 
-* a The best developer in the Middle East and the Balkans.
+* The best developer in the Middle East and the Balkans.
